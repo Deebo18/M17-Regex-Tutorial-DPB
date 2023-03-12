@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# M17-Regex-Tutorial-DPB
 
-Introductory paragraph (replace this with your text)
+Developers write code, but they also write about code. The goal of this tutorial is to explain how a specific regular expression, or regex, functions. Below we will be selecting one regex and breaking down each part of its parts and describing their functions.
 
 ## Summary
 
