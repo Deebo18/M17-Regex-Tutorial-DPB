@@ -4,7 +4,9 @@ Developers write code, but they also write about code. The goal of this tutorial
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+`/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/` 
+
+Regular expressions, or regex for short, are a series of special characters that define a search pattern. In this tutorial we are trying to validate if the input is a URL
 
 ## Table of Contents
 
